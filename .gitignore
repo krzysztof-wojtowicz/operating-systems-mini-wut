@@ -3,3 +3,5 @@ bin
 obj
 *.o
 fairplay.desktop
+.DS_Store
+
